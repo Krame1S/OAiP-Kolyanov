@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1666870155 source:c:\ilya\projects\4.1lab\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1666854642 source:c:\program files\codeblocks\mingw\include\libiberty\func.cpp
+	"func.h"
+
+1666854761 c:\program files\codeblocks\mingw\include\libiberty\func.h
+	<stdio.h>
+	<stdlib.h>
+
