@@ -1,0 +1,9 @@
+﻿  funcs.c
+C:\Ilya\VS_projects\sem2\lab1\lab1Test\funcs.h(10,2): warning C4091: typedef : пропускается слева от "SSD", когда ни одна переменная не объявлена
+C:\Ilya\VS_projects\sem2\lab1\lab1Test\funcs.c(55,20): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Ilya\VS_projects\sem2\lab1\lab1Test\funcs.c(550,13): warning C4013: enumFunc: нет определения; предполагается "extern" с возвратом типа "int"
+  main.c
+C:\Ilya\VS_projects\sem2\lab1\lab1Test\funcs.h(10,2): warning C4091: typedef : пропускается слева от "SSD", когда ни одна переменная не объявлена
+  Создание кода...
+C:\Ilya\VS_projects\sem2\lab1\lab1Test\funcs.c(171): warning C4715: choiceMemberTwoPosSort: значение возвращается не при всех путях выполнения
+  lab1Test.vcxproj -> C:\Ilya\VS_projects\sem2\lab1\x64\Debug\lab1Test.exe
