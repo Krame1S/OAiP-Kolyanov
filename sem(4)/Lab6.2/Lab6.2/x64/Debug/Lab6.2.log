@@ -1,0 +1,7 @@
+﻿  sort.c
+C:\Ilya\VS_projects\Lab6.2\Lab6.2\sort.c(20,37): warning C4047: функция: "int **" отличается по уровням косвенного обращения от "int ***"
+C:\Ilya\VS_projects\Lab6.2\Lab6.2\sort.c(20,32): warning C4024: array_swap: различные типы для формального и фактического параметров 1
+C:\Ilya\VS_projects\Lab6.2\Lab6.2\sort.c(20,43): warning C4047: функция: "int **" отличается по уровням косвенного обращения от "int *"
+C:\Ilya\VS_projects\Lab6.2\Lab6.2\sort.c(20,39): warning C4024: array_swap: различные типы для формального и фактического параметров 2
+C:\Ilya\VS_projects\Lab6.2\Lab6.2\sort.c(20,45): warning C4020: array_swap: слишком много фактических параметров
+  Lab6.2.vcxproj -> C:\Ilya\VS_projects\Lab6.2\x64\Debug\Lab6.2.exe
