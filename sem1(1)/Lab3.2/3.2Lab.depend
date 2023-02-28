@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1665143441 source:c:\ilya\projects\3.2lab\main.c
+	<stdio.h>
+	<stdlib.h>
+

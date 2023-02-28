@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1663177675 source:c:\ilya\projects\task_2_1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
