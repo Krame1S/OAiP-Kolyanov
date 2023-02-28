@@ -1,8 +1,0 @@
-﻿  string.c
-C:\Ilya\VS_projects\Lab7.1\Lab7.1\string.c(3,19): warning C4028: формальный параметр 1 отличается от объявления
-C:\Ilya\VS_projects\Lab7.1\Lab7.1\string.c(26,11): warning C4098: string_del_word: функция типа "void", возвращающая значение
-C:\Ilya\VS_projects\Lab7.1\Lab7.1\string.c(37,11): warning C4098: string_del_word: функция типа "void", возвращающая значение
-C:\Ilya\VS_projects\Lab7.1\Lab7.1\string.c(59,11): warning C4098: string_del_word: функция типа "void", возвращающая значение
-C:\Ilya\VS_projects\Lab7.1\Lab7.1\string.c(64,11): warning C4098: string_del_word: функция типа "void", возвращающая значение
-C:\Ilya\VS_projects\Lab7.1\Lab7.1\string.c(73,22): warning C4013: strlen: нет определения; предполагается "extern" с возвратом типа "int"
-  Lab7.1.vcxproj -> C:\Ilya\VS_projects\Lab7.1\x64\Debug\Lab7.1.exe
