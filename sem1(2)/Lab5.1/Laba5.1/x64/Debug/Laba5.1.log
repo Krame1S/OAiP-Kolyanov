@@ -1,0 +1,7 @@
+﻿  output.c
+C:\Ilya\VS_projects\Lab5.1\Laba5.1\output.c(35,43): warning C4028: формальный параметр 2 отличается от объявления
+C:\Ilya\VS_projects\Lab5.1\Laba5.1\output.c(36,1): warning C4029: объявленный список формальных параметров отличается от объявления
+C:\Ilya\VS_projects\Lab5.1\Laba5.1\output.c(48,39): warning C4028: формальный параметр 2 отличается от объявления
+C:\Ilya\VS_projects\Lab5.1\Laba5.1\output.c(49,1): warning C4029: объявленный список формальных параметров отличается от объявления
+C:\Ilya\VS_projects\Lab5.1\Laba5.1\output.c(81,36): warning C4028: формальный параметр 2 отличается от объявления
+  Laba5.1.vcxproj -> C:\Ilya\VS_projects\Lab5.1\x64\Debug\Laba5.1.exe
