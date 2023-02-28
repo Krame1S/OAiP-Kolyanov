@@ -1,0 +1,10 @@
+﻿  Source.c
+C:\Ilya\VS_projects\Lab5.3\Lab5.3\Source.c(10,21): warning C4047: функция: "int *" отличается по уровням косвенного обращения от "int"
+C:\Ilya\VS_projects\Lab5.3\Lab5.3\Source.c(10,18): warning C4024: array_mem_alloc: различные типы для формального и фактического параметров 1
+C:\Ilya\VS_projects\Lab5.3\Lab5.3\Source.c(10,26): warning C4047: функция: "int *" отличается по уровням косвенного обращения от "int"
+C:\Ilya\VS_projects\Lab5.3\Lab5.3\Source.c(10,23): warning C4024: array_mem_alloc: различные типы для формального и фактического параметров 2
+C:\Ilya\VS_projects\Lab5.3\Lab5.3\Source.c(14,17): warning C4047: функция: "int *" отличается по уровням косвенного обращения от "int"
+C:\Ilya\VS_projects\Lab5.3\Lab5.3\Source.c(14,14): warning C4024: input_array: различные типы для формального и фактического параметров 1
+C:\Ilya\VS_projects\Lab5.3\Lab5.3\Source.c(14,22): warning C4047: функция: "int *" отличается по уровням косвенного обращения от "int"
+C:\Ilya\VS_projects\Lab5.3\Lab5.3\Source.c(14,19): warning C4024: input_array: различные типы для формального и фактического параметров 2
+  Lab5.3.vcxproj -> C:\Ilya\VS_projects\Lab5.3\x64\Debug\Lab5.3.exe

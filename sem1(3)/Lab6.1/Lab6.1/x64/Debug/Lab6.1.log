@@ -1,0 +1,6 @@
+﻿  input.c
+C:\Ilya\VS_projects\Lab6.1\Lab6.1\input.c(5,2): warning C4013: output_k_promt: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Ilya\VS_projects\Lab6.1\Lab6.1\input.c(8,3): warning C4013: output_wrong_input: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Ilya\VS_projects\Lab6.1\Lab6.1\input.c(40,2): warning C4013: srand: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Ilya\VS_projects\Lab6.1\Lab6.1\input.c(45,10): warning C4013: rand: нет определения; предполагается "extern" с возвратом типа "int"
+  Lab6.1.vcxproj -> C:\Ilya\VS_projects\Lab6.1\x64\Debug\Lab6.1.exe
